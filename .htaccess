@@ -1,0 +1,2 @@
+Rewrite Engine On
+Rewrite Rule ^( [ 0-9A-ZA-Z-]+)$ details.php?pro_id=$1 [QSA, NC, L ]
