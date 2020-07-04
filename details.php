@@ -452,7 +452,7 @@ $product_price = $pro_price;
 
 }
 
-$query = "insert into cart (p_id,ip_add,qty,p_price) values ('$p_id','$ip_add','$product_qty','$product_price')";
+$query = "insert into cart (p_id,ip_add,qty,p_price) values ('$p_id','$ip_add','$product_qty','$pro_price')";
 
 $run_query = mysqli_query($db,$query);
 

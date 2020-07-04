@@ -35,11 +35,11 @@ If you have any questions, please feel free to <a href="../contact.php" >contact
 
 <tr>
 
-<td> Bank Name:ubl Account No:03333333 Branch Code:0342 Branch Name:Shadara Lahore	 </td>
+<td> 	 </td>
 
-<td> NIC#001234567 Mobile No:03334566931, Name:M.T.Ahmed </td>
+<td>  </td>
 
-<td> Full Name:M.T.Ahmed, Mobile No:03334566931, Name:M.T.Ahmed, Country:Pakistan, N.I.C No:001234567
+<td> 
 </td>
 
 

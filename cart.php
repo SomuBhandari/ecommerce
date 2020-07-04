@@ -364,11 +364,11 @@ Rs.<?php echo $only_price; ?>.00
 
 </td>
 
-<td>
+<!-- <td>
 
 <?php echo $pro_size; ?>
 
-</td>
+</td> -->
 
 <td>
 <input type="checkbox" name="remove[]" value="<?php echo $pro_id; ?>">
